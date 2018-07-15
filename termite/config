@@ -1,0 +1,65 @@
+[options]
+audible_bell = false
+clickable_url = true
+dynamic_title = true
+font = Liberation Mono 9
+font = Droid Sans Mono for Powerline Plus Nerd File Types Mono 11,Source Code Pro
+fullscreen = true
+#mouse_autohide = true
+scrollback_lines = 1000
+browser = vivaldi
+size_hints = true
+filter_unmatched_urls = true
+
+[colors]
+cursor = #ffffff
+cursor_foreground = #666666
+foreground = #ffeacb
+background = #313131
+background = rgba(16,14,18,.75)
+highlight = #2f1a21
+
+# black
+color0= #3c3836
+color8= #504945
+
+# red
+color1= #cc241d
+color9= #fb4934
+
+# Green
+color2 = #98971a
+color10 = #b8bb26
+
+# Yellow
+color3= #aa5448
+color11= #b26356
+
+# Blue
+color4 = #5a5c67
+color12 = #63656f
+
+# Magenta
+color5 =  #b64cc9
+color13 = #b64cc9
+
+# Cyan
+color6 = #689d6a
+color14 = #8ec07c
+
+# White
+color7=  #b2a796
+color15= #beb4a6
+
+[hints]
+#font = Monospace 12
+#foreground = #dcdccc
+#background = #3f3f3f
+#active_foreground = #e68080
+#active_background = #3f3f3f
+#padding = 2
+#border = #3f3f3f
+#border_width = 0.5
+#roundness = 2.0
+
+# vim: ft=dosini cms=#%s

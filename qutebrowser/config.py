@@ -1,0 +1,1 @@
+/home/ft-arch/DotFiles/config/qutebrowser/config.py

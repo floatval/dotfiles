@@ -1,0 +1,1 @@
+../../dotfiles/config/ranger/.config/ranger/commands.py
